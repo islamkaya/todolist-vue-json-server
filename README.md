@@ -1,5 +1,5 @@
 # todo-list-vue3-json-server
-
+Welcome to my todolist. web app
 ## Project setup
 ```
 npm install
@@ -7,23 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
+json-server db.json -m ./node_modules/json-server-auth (for fake api)
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
